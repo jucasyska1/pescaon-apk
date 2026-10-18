@@ -1,7 +1,7 @@
 {
-  "version": "3.7.7",
-  "versionCode": 377,
-  "minVersion": "3.7.7",
-  "releaseNotes": "Login mais seguro: sua senha agora é sempre confirmada pelo servidor. Ao abrir esta versão pela primeira vez, entre de novo com seu e-mail e senha.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.7.7.apk"
+  "version": "3.7.8",
+  "versionCode": 378,
+  "minVersion": "3.7.8",
+  "releaseNotes": "Mais privacidade: suas mensagens e seus dados de perfil agora só podem ser vistos por você. O login passa a ser feito somente com o e-mail.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.7.8.apk"
 }
