@@ -1,7 +1,7 @@
 {
-  "version": "3.7.9",
-  "versionCode": 379,
+  "version": "3.8.0",
+  "versionCode": 380,
   "minVersion": "3.7.9",
-  "releaseNotes": "Troca de senha funcionando de verdade, denúncias registradas para a equipe analisar e capturas oficiais validadas pela análise automática. Visitantes podem ver o feed, mas precisam de uma conta para publicar e interagir.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.7.9.apk"
+  "releaseNotes": "Entrar com o Google pela tela do próprio Android, notificações de verdade no celular e app mais leve (7 MB). Saíram as notificações de exemplo.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.0.apk"
 }
