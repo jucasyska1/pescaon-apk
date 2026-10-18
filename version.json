@@ -1,7 +1,7 @@
 {
-  "version": "3.7.8",
-  "versionCode": 378,
-  "minVersion": "3.7.8",
-  "releaseNotes": "Mais privacidade: suas mensagens e seus dados de perfil agora só podem ser vistos por você. O login passa a ser feito somente com o e-mail.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.7.8.apk"
+  "version": "3.7.9",
+  "versionCode": 379,
+  "minVersion": "3.7.9",
+  "releaseNotes": "Troca de senha funcionando de verdade, denúncias registradas para a equipe analisar e capturas oficiais validadas pela análise automática. Visitantes podem ver o feed, mas precisam de uma conta para publicar e interagir.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.7.9.apk"
 }
