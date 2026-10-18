@@ -1,7 +1,7 @@
 {
-  "version": "3.8.1",
-  "versionCode": 381,
-  "minVersion": "3.7.9",
-  "releaseNotes": "Correção das notificações no celular e das permissões de câmera e localização. Entrar com o Google pela tela do Android e app mais leve.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.1.apk"
+  "version": "3.8.2",
+  "versionCode": 382,
+  "minVersion": "3.8.2",
+  "releaseNotes": "Atualização obrigatória: entrar com o Google agora pede a confirmação dos seus dados e a criação de uma senha no primeiro acesso, e cada conta vê só as próprias capturas e pontos no celular.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.2.apk"
 }
