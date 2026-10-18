@@ -1,7 +1,7 @@
 {
-  "version": "3.8.2",
-  "versionCode": 382,
-  "minVersion": "3.8.2",
-  "releaseNotes": "Atualização obrigatória: entrar com o Google agora pede a confirmação dos seus dados e a criação de uma senha no primeiro acesso, e cada conta vê só as próprias capturas e pontos no celular.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.2.apk"
+  "version": "3.8.3",
+  "versionCode": 383,
+  "minVersion": "3.8.3",
+  "releaseNotes": "Correção: a hora, a bateria e as notificações do celular voltam a aparecer no topo da tela.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.3.apk"
 }
