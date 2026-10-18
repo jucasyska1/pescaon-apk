@@ -1,7 +1,7 @@
 {
-  "version": "3.8.0",
-  "versionCode": 380,
+  "version": "3.8.1",
+  "versionCode": 381,
   "minVersion": "3.7.9",
-  "releaseNotes": "Entrar com o Google pela tela do próprio Android, notificações de verdade no celular e app mais leve (7 MB). Saíram as notificações de exemplo.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.0.apk"
+  "releaseNotes": "Correção das notificações no celular e das permissões de câmera e localização. Entrar com o Google pela tela do Android e app mais leve.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.1.apk"
 }
