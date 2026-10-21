@@ -1,7 +1,7 @@
 {
-  "version": "3.8.3",
-  "versionCode": 383,
-  "minVersion": "3.8.3",
-  "releaseNotes": "Correção: a hora, a bateria e as notificações do celular voltam a aparecer no topo da tela.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.3.apk"
+  "version": "3.8.4",
+  "versionCode": 384,
+  "minVersion": "3.8.4",
+  "releaseNotes": "PescaON v3.8.4: Telas exclusivas da vis\u00e3o do pesqueiro (Perfil, Galeria, Ranking, QR Code, Produtos, Cupons, Avalia\u00e7\u00f5es e Contato).",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.4.apk"
 }
