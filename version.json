@@ -1,7 +1,7 @@
 {
-  "version": "3.8.5",
-  "versionCode": 385,
-  "minVersion": "3.8.5",
-  "releaseNotes": "PescaON v3.8.5: Corre\u00e7\u00f5es de estabilidade no login do pesqueiro, capa e avatar edit\u00e1veis, galeria integrada com capturas do feed e cria\u00e7\u00e3o de banner IA.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.5.apk"
+  "version": "3.8.6",
+  "versionCode": 386,
+  "minVersion": "3.8.6",
+  "releaseNotes": "PescaON v3.8.6: Atualiza\u00e7\u00e3o autom\u00e1tica restaurada no celular, carrossel de torneios autom\u00e1tico, privacidade p\u00fablico/privado de torneios e feed refinado.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.6.apk"
 }
