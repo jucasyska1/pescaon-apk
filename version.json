@@ -1,7 +1,7 @@
 {
-  "version": "3.8.6",
-  "versionCode": 386,
-  "minVersion": "3.8.6",
-  "releaseNotes": "PescaON v3.8.6: Atualiza\u00e7\u00e3o autom\u00e1tica restaurada no celular, carrossel de torneios autom\u00e1tico, privacidade p\u00fablico/privado de torneios e feed refinado.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.6.apk"
+  "version": "3.8.7",
+  "versionCode": 387,
+  "minVersion": "3.8.7",
+  "releaseNotes": "PescaON v3.8.7: Suporte aprimorado ao motor IA NVIDIA NIM, remo\u00e7\u00e3o de campo de chave API e sincroniza\u00e7\u00e3o de atualiza\u00e7\u00f5es.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.7.apk"
 }
