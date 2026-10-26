@@ -1,7 +1,7 @@
 {
-  "version": "3.8.10",
-  "versionCode": 3810,
-  "minVersion": "3.8.10",
-  "releaseNotes": "PescaON v3.8.10: Ajuste de layout e abrevia\u00e7\u00f5es das comodidades no card do pesqueiro.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.10.apk"
+  "version": "3.8.11",
+  "versionCode": 3811,
+  "minVersion": "3.8.11",
+  "releaseNotes": "PescaON v3.8.11: Rotas e navega\u00e7\u00e3o direta para o endere\u00e7o cadastrado no Waze e Google Maps.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.11.apk"
 }
