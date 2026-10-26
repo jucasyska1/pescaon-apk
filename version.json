@@ -1,7 +1,7 @@
 {
-  "version": "3.8.8",
-  "versionCode": 388,
-  "minVersion": "3.8.8",
-  "releaseNotes": "PescaON v3.8.8: check-in e resgate de pontos por adesivo NFC e QR Code nos pesqueiros parceiros.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.8.apk"
+  "version": "3.8.9",
+  "versionCode": 389,
+  "minVersion": "3.8.9",
+  "releaseNotes": "PescaON v3.8.9: Novo layout refinado do card de detalhes do pesqueiro no mapa.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.9.apk"
 }
