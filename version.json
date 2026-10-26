@@ -1,7 +1,7 @@
 {
-  "version": "3.8.9",
-  "versionCode": 389,
-  "minVersion": "3.8.9",
-  "releaseNotes": "PescaON v3.8.9: Novo layout refinado do card de detalhes do pesqueiro no mapa.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.9.apk"
+  "version": "3.8.10",
+  "versionCode": 3810,
+  "minVersion": "3.8.10",
+  "releaseNotes": "PescaON v3.8.10: Ajuste de layout e abrevia\u00e7\u00f5es das comodidades no card do pesqueiro.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.10.apk"
 }
