@@ -1,7 +1,7 @@
 {
-  "version": "3.8.15",
-  "versionCode": 3815,
-  "minVersion": "3.8.15",
-  "releaseNotes": "Pagina da Loja espelhada com o card do mapa, edicao completa pelo lojista, QR Code Clube de Pontos, Banners IA do Feed e correcao de navegacao",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.15.apk"
+  "version": "3.8.16",
+  "versionCode": 3816,
+  "minVersion": "3.8.16",
+  "releaseNotes": "Paginas da Loja completas no padrao do Pesqueiro, card espelhado editavel, QR Code Clube de Pontos, Banners IA e botao Sair funcionando",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.16.apk"
 }
