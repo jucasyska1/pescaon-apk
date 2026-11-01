@@ -1,7 +1,7 @@
 {
-  "version": "3.8.12",
-  "versionCode": 3812,
-  "minVersion": "3.8.12",
-  "releaseNotes": "PescaON v3.8.12: Busca inteligente de qualquer cidade e pesqueiro na previs\u00e3o do tempo.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.12.apk"
+  "version": "3.8.13",
+  "versionCode": 3813,
+  "minVersion": "3.8.13",
+  "releaseNotes": "PescaON v3.8.13: Edicao completa da pagina do pesqueiro (banner, avatar, iscas, horarios, especies, comodidades) e menus funcionais.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.13.apk"
 }
