@@ -1,7 +1,7 @@
 {
-  "version": "3.8.13",
-  "versionCode": 3813,
-  "minVersion": "3.8.13",
-  "releaseNotes": "PescaON v3.8.13: Edicao completa da pagina do pesqueiro (banner, avatar, iscas, horarios, especies, comodidades) e menus funcionais.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.13.apk"
+  "version": "3.8.14",
+  "versionCode": 3814,
+  "minVersion": "3.8.14",
+  "releaseNotes": "Pagina editavel das Lojas (Lojista) com menus de configuracoes funcionais e banners IA (feed e stories), mantendo card do mapa intacto",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.14.apk"
 }
