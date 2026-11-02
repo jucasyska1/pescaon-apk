@@ -1,7 +1,7 @@
 {
-  "version": "3.8.26",
-  "versionCode": 3826,
-  "minVersion": "3.8.26",
-  "releaseNotes": "PescaON v3.8.26: Clube de Pontos de verdade (check-in, peso validado pelo v\u00eddeo, n\u00edveis e extrato), valida\u00e7\u00e3o do peso pela balan\u00e7a, pr\u00eamios e cupons de pesqueiros e lojas.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.26.apk"
+  "version": "3.8.27",
+  "versionCode": 3827,
+  "minVersion": "3.8.27",
+  "releaseNotes": "PescaON v3.8.27: nova \u00c1rea do Parceiro para pesqueiros e lojas (in\u00edcio com indicadores, cupons, mural de capturas com destaques, produtos em destaque e menu de cria\u00e7\u00e3o).",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.27.apk"
 }
