@@ -1,7 +1,7 @@
 {
-  "version": "3.8.28",
-  "versionCode": 3828,
-  "minVersion": "3.8.28",
-  "releaseNotes": "PescaON v3.8.28: cupons com QR Code no balc\u00e3o (muda a cada 30 s), valor do dia e regras do pesqueiro, destaques no mural de capturas e nos produtos da loja.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.28.apk"
+  "version": "3.8.29",
+  "versionCode": 3829,
+  "minVersion": "3.8.29",
+  "releaseNotes": "PescaON v3.8.29: o perfil dos pesqueiros e lojas agora \u00e9 salvo no servidor e aparece igual para todos os pescadores no mapa.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.29.apk"
 }
