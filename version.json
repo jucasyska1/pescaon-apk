@@ -1,7 +1,7 @@
 {
-  "version": "3.8.24",
-  "versionCode": 3824,
-  "minVersion": "3.8.24",
-  "releaseNotes": "PescaON v3.8.24: captura mais f\u00e1cil, com bot\u00f5es grandes de foto, a IA sugere a esp\u00e9cie, o pesqueiro \u00e9 preenchido pelo GPS e as fotos deitadas aparecem inteiras no feed.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.24.apk"
+  "version": "3.8.26",
+  "versionCode": 3826,
+  "minVersion": "3.8.26",
+  "releaseNotes": "PescaON v3.8.26: Clube de Pontos de verdade (check-in, peso validado pelo v\u00eddeo, n\u00edveis e extrato), valida\u00e7\u00e3o do peso pela balan\u00e7a, pr\u00eamios e cupons de pesqueiros e lojas.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.26.apk"
 }
