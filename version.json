@@ -1,7 +1,7 @@
 {
-  "version": "3.8.18",
-  "versionCode": 3818,
-  "minVersion": "3.8.18",
-  "releaseNotes": "PescaON v3.8.18: a Area do Lojista volta a aparecer. O card da loja nao cobre mais as paginas da loja e so abre em Ver minha pagina.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.18.apk"
+  "version": "3.8.19",
+  "versionCode": 3819,
+  "minVersion": "3.8.19",
+  "releaseNotes": "PescaON v3.8.19: na loja, os botoes Salvar e Concluir de telefone, servicos e estrutura e horarios voltam a funcionar (a barra de baixo nao cobre mais).",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.19.apk"
 }
