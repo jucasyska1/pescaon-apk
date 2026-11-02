@@ -1,7 +1,7 @@
 {
-  "version": "3.8.20",
-  "versionCode": 3820,
-  "minVersion": "3.8.20",
-  "releaseNotes": "PescaON v3.8.20: na tela do Tempo, salve a previsao de um dia bom de pesca e receba um aviso quando a pressao, o vento e o ceu ficarem iguais no mesmo local.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.20.apk"
+  "version": "3.8.21",
+  "versionCode": 3821,
+  "minVersion": "3.8.21",
+  "releaseNotes": "PescaON v3.8.21: nova aba Salvos no Perfil, com os Posts salvos do Feed (agora ficam guardados) e Minhas previsoes da tela do Tempo.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.21.apk"
 }
