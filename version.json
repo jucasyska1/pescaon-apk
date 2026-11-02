@@ -1,7 +1,7 @@
 {
-  "version": "3.8.17",
-  "versionCode": 3817,
-  "minVersion": "3.8.17",
-  "releaseNotes": "Area do Lojista: hub, Minha Loja, Editar Dados, Produtos com planos, Banners IA, Avaliacoes, Solicitacoes, Desempenho; rolagem dos paineis corrigida; atalho de painel so para contas cadastradas",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.17.apk"
+  "version": "3.8.18",
+  "versionCode": 3818,
+  "minVersion": "3.8.18",
+  "releaseNotes": "PescaON v3.8.18: a Area do Lojista volta a aparecer. O card da loja nao cobre mais as paginas da loja e so abre em Ver minha pagina.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.18.apk"
 }
