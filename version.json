@@ -1,7 +1,7 @@
 {
-  "version": "3.8.29",
-  "versionCode": 3829,
-  "minVersion": "3.8.29",
-  "releaseNotes": "PescaON v3.8.29: o perfil dos pesqueiros e lojas agora \u00e9 salvo no servidor e aparece igual para todos os pescadores no mapa.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.29.apk"
+  "version": "3.8.30",
+  "versionCode": 3830,
+  "minVersion": "3.8.30",
+  "releaseNotes": "PescaON v3.8.30: 'Ver todas' as capturas no card do pesqueiro e destaques edit\u00e1veis nos perfis de influenciador e embaixador.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.30.apk"
 }
