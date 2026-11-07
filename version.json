@@ -1,7 +1,7 @@
 {
-  "version": "3.8.34",
-  "versionCode": 3834,
-  "minVersion": "3.8.34",
-  "releaseNotes": "PescaON v3.8.34: CEP no perfil do pesqueiro e da loja, endere\u00e7o completo no card do mapa e hist\u00f3rico de check-ins.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.34.apk"
+  "version": "3.8.35",
+  "versionCode": 3835,
+  "minVersion": "3.8.35",
+  "releaseNotes": "PescaON v3.8.35: card da loja no mapa sem previs\u00e3o do tempo e com o endere\u00e7o em largura total.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.35.apk"
 }
