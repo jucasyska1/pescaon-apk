@@ -1,7 +1,7 @@
 {
-  "version": "3.8.39",
-  "versionCode": 3839,
-  "minVersion": "3.8.39",
-  "releaseNotes": "PescaON v3.8.39: adesivo NFC de demonstracao da Loja Pega Um Ta Bom (modo teste, os pontos nao vao para a conta).",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.39.apk"
+  "version": "3.8.40",
+  "versionCode": 3840,
+  "minVersion": "3.8.40",
+  "releaseNotes": "PescaON v3.8.40: botao de voltar na recuperacao de senha, mapa abre no pesqueiro ou loja mais perto e cadastro de pesqueiro/loja do mapa com validacao automatica ou pedido de reivindicacao (48 h).",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.40.apk"
 }
