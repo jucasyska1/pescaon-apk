@@ -1,7 +1,7 @@
 {
-  "version": "3.8.37",
-  "versionCode": 3837,
-  "minVersion": "3.8.37",
-  "releaseNotes": "PescaON v3.8.37: troca de pontos por cupons, nova regra de pontos, check-in tamb\u00e9m na loja, pain\u00e9is mais seguros e troca direta entre pesqueiro e loja.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.37.apk"
+  "version": "3.8.38",
+  "versionCode": 3838,
+  "minVersion": "3.8.38",
+  "releaseNotes": "PescaON v3.8.38: ranking real do maior peixe com peso validado, na semana e no m\u00eas, com b\u00f4nus para os 3 primeiros.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.38.apk"
 }
