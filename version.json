@@ -1,7 +1,7 @@
 {
-  "version": "3.8.36",
-  "versionCode": 3836,
-  "minVersion": "3.8.36",
-  "releaseNotes": "PescaON v3.8.36: loja e pesqueiro do mesmo login separados, cupons de cada um e lojas aprovadas no mapa.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.36.apk"
+  "version": "3.8.37",
+  "versionCode": 3837,
+  "minVersion": "3.8.37",
+  "releaseNotes": "PescaON v3.8.37: troca de pontos por cupons, nova regra de pontos, check-in tamb\u00e9m na loja, pain\u00e9is mais seguros e troca direta entre pesqueiro e loja.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.37.apk"
 }
