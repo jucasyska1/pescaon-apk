@@ -1,7 +1,7 @@
 {
-  "version": "3.8.38",
-  "versionCode": 3838,
-  "minVersion": "3.8.38",
-  "releaseNotes": "PescaON v3.8.38: ranking real do maior peixe com peso validado, na semana e no m\u00eas, com b\u00f4nus para os 3 primeiros.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.38.apk"
+  "version": "3.8.39",
+  "versionCode": 3839,
+  "minVersion": "3.8.39",
+  "releaseNotes": "PescaON v3.8.39: adesivo NFC de demonstracao da Loja Pega Um Ta Bom (modo teste, os pontos nao vao para a conta).",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.39.apk"
 }
