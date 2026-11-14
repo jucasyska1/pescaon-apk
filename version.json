@@ -1,7 +1,7 @@
 {
-  "version": "3.8.44",
-  "versionCode": 3844,
-  "minVersion": "3.8.44",
-  "releaseNotes": "Loja: categorias leg\u00edveis no cadastro de produto, banner menor no lugar certo, sem erro ao usar foto da galeria e limites de banners por plano.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.44.apk"
+  "version": "3.8.45",
+  "versionCode": 3845,
+  "minVersion": "3.8.45",
+  "releaseNotes": "Mapa: pesqueiros e lojas agora podem ajustar o pr\u00f3prio pino (link do Google Maps ou arrastando no mapa).",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.45.apk"
 }
