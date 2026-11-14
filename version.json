@@ -1,7 +1,7 @@
 {
-  "version": "3.8.48",
-  "versionCode": 3848,
-  "minVersion": "3.8.48",
-  "releaseNotes": "A IA agora sugere as esp\u00e9cies mais prov\u00e1veis quando fica em d\u00favida na foto do peixe: \u00e9 s\u00f3 tocar na certa.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.48.apk"
+  "version": "3.8.49",
+  "versionCode": 3849,
+  "minVersion": "3.8.49",
+  "releaseNotes": "Identifica\u00e7\u00e3o do peixe melhor: se a IA errar a esp\u00e9cie, \u00e9 s\u00f3 tocar na certa entre as sugest\u00f5es.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.49.apk"
 }
