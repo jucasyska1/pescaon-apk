@@ -1,7 +1,7 @@
 {
-  "version": "3.8.41",
-  "versionCode": 3841,
-  "minVersion": "3.8.41",
-  "releaseNotes": "PescaON v3.8.41: data de nascimento no cadastro. Pescador a partir de 13 anos; pesqueiro e loja so para maiores de 18.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.41.apk"
+  "version": "3.8.42",
+  "versionCode": 3842,
+  "minVersion": "3.8.42",
+  "releaseNotes": "Agora somos Cev\u00f4! Novo nome, novo logo, novo \u00edcone e nova tela de abertura. Mesma turma de sempre.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.42.apk"
 }
