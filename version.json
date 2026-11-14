@@ -1,7 +1,7 @@
 {
-  "version": "3.8.47",
-  "versionCode": 3847,
-  "minVersion": "3.8.47",
-  "releaseNotes": "Busca do mapa mais inteligente: acha pesqueiros e lojas mesmo com acento, erro de digita\u00e7\u00e3o ou nome incompleto.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.47.apk"
+  "version": "3.8.48",
+  "versionCode": 3848,
+  "minVersion": "3.8.48",
+  "releaseNotes": "A IA agora sugere as esp\u00e9cies mais prov\u00e1veis quando fica em d\u00favida na foto do peixe: \u00e9 s\u00f3 tocar na certa.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.48.apk"
 }
