@@ -1,7 +1,7 @@
 {
-  "version": "3.8.50",
-  "versionCode": 3850,
-  "minVersion": "3.8.50",
-  "releaseNotes": "V\u00eddeo da pescaria agora vai como Momento, com aviso claro: para valer pontos de captura, grave o v\u00eddeo do peso.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.50.apk"
+  "version": "3.8.51",
+  "versionCode": 3851,
+  "minVersion": "3.8.51",
+  "releaseNotes": "Loja: produto cadastrado n\u00e3o some mais ao reabrir o app. A foto do produto agora fica salva no servidor.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.51.apk"
 }
