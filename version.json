@@ -1,7 +1,7 @@
 {
-  "version": "3.8.42",
-  "versionCode": 3842,
-  "minVersion": "3.8.42",
-  "releaseNotes": "Agora somos Cev\u00f4! Novo nome, novo logo, novo \u00edcone e nova tela de abertura. Mesma turma de sempre.",
-  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.42.apk"
+  "version": "3.8.43",
+  "versionCode": 3843,
+  "minVersion": "3.8.43",
+  "releaseNotes": "O logo do topo do Feed n\u00e3o abre mais o menu repetido.",
+  "downloadUrl": "https://raw.githubusercontent.com/jucasyska1/pescaon-apk/main/PescaON-v3.8.43.apk"
 }
